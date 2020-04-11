@@ -1,0 +1,13 @@
+C:\Users\overl\source\repos\XUnitSeleniumWebDriverTest\XUnitSeleniumWebDriverTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\overl\source\repos\XUnitSeleniumWebDriverTest\XUnitSeleniumWebDriverTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\overl\source\repos\XUnitSeleniumWebDriverTest\XUnitSeleniumWebDriverTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\overl\source\repos\XUnitSeleniumWebDriverTest\XUnitSeleniumWebDriverTest\bin\Debug\netcoreapp2.1\XUnitSeleniumWebDriverTest.deps.json
+C:\Users\overl\source\repos\XUnitSeleniumWebDriverTest\XUnitSeleniumWebDriverTest\bin\Debug\netcoreapp2.1\XUnitSeleniumWebDriverTest.runtimeconfig.json
+C:\Users\overl\source\repos\XUnitSeleniumWebDriverTest\XUnitSeleniumWebDriverTest\bin\Debug\netcoreapp2.1\XUnitSeleniumWebDriverTest.runtimeconfig.dev.json
+C:\Users\overl\source\repos\XUnitSeleniumWebDriverTest\XUnitSeleniumWebDriverTest\bin\Debug\netcoreapp2.1\XUnitSeleniumWebDriverTest.dll
+C:\Users\overl\source\repos\XUnitSeleniumWebDriverTest\XUnitSeleniumWebDriverTest\obj\Debug\netcoreapp2.1\XUnitSeleniumWebDriverTest.AssemblyInfoInputs.cache
+C:\Users\overl\source\repos\XUnitSeleniumWebDriverTest\XUnitSeleniumWebDriverTest\obj\Debug\netcoreapp2.1\XUnitSeleniumWebDriverTest.AssemblyInfo.cs
+C:\Users\overl\source\repos\XUnitSeleniumWebDriverTest\XUnitSeleniumWebDriverTest\bin\Debug\netcoreapp2.1\XUnitSeleniumWebDriverTest.pdb
+C:\Users\overl\source\repos\XUnitSeleniumWebDriverTest\XUnitSeleniumWebDriverTest\obj\Debug\netcoreapp2.1\XUnitSeleniumWebDriverTest.dll
+C:\Users\overl\source\repos\XUnitSeleniumWebDriverTest\XUnitSeleniumWebDriverTest\obj\Debug\netcoreapp2.1\XUnitSeleniumWebDriverTest.pdb
+C:\Users\overl\source\repos\XUnitSeleniumWebDriverTest\XUnitSeleniumWebDriverTest\obj\Debug\netcoreapp2.1\XUnitSeleniumWebDriverTest.csprojAssemblyReference.cache
